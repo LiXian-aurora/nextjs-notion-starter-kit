@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '8d22be0b5060439fa40b013f8d22c10d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '鱼 舍',
+  domain: 'https://pivotstudio.notion.site/8d22be0b5060439fa40b013f8d22c10d',
+  author: '鱼羊',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  E-mail: 'lixian.aurora@gmail.com',
+  linkedin: '李鲜',
+  WeiXin:'BeyourselfNeverlost',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
